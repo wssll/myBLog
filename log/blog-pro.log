@@ -1,0 +1,3 @@
+2020-04-20 16:58:53.352  INFO 15216 --- [main] com.sll.blog.BlogApplication             : Starting BlogApplication on LAPTOP-SGV36HQA with PID 15216 (E:\java_Spring\project\blog_sp\target\classes started by 15052 in E:\java_Spring\project\blog_sp)
+2020-04-20 16:58:53.354  INFO 15216 --- [main] com.sll.blog.BlogApplication             : The following profiles are active: pro
+2020-04-20 16:58:57.648  INFO 15216 --- [main] com.sll.blog.BlogApplication             : Started BlogApplication in 4.784 seconds (JVM running for 6.298)
